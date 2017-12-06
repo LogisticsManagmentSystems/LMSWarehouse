@@ -198,5 +198,56 @@ namespace LMSWarehouse
             dgCustomer.DataSource = dc.Tables[0];
         }
 
+        private void dgCustomer_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void searchBtn_Click(object sender, EventArgs e)
+        {
+            //GetCustomerfilter(int PrimaryCustomerID, string name)
+            try
+            {
+                DataSet dpc = WS.GetPrimaryCustomer(CompanyID, Ctype);
+                cbPrimaryCustomer.DataSource = dpc.Tables[0];
+                cbPrimaryCustomer.ValueMember = "PrimaryCustomer_ID";
+                cbPrimaryCustomer.DisplayMember = "PrimaryCustomerName";
+
+                toolStripcbFilter.ComboBox.DataSource = dpc.Tables[0];
+                toolStripcbFilter.ComboBox.ValueMember = "PrimaryCustomer_ID";
+                toolStripcbFilter.ComboBox.DisplayMember = "PrimaryCustomerName";
+
+                if (PrimaryCustomerID > 0)
+                {
+                    toolStripcbFilter.ComboBox.SelectedValue = PrimaryCustomerID;
+                    toolStripcbFilter.ComboBox.Enabled = false;
+                }
+
+                //DataSet dc = WS.GetCustomer(int.Parse(cbPrimaryCustomer.SelectedValue.ToString()));
+                DataSet dc = WS.GetCustomerfilter(1,nameTxt.Text);
+                dgCustomer.DataSource = dc.Tables[0];
+
+
+                DataSet du = WS.GetUserList(CompanyID);
+                DataRow dr = du.Tables[0].NewRow();
+                dr["User_ID"] = 0;
+                dr["UserName"] = "No User Linked";
+
+                du.Tables[0].Rows.InsertAt(dr, 0);
+                cbUsers.DataSource = du.Tables[0];
+                cbUsers.ValueMember = "User_ID";
+                cbUsers.DisplayMember = "UserName";
+
+
+
+                cbPrimaryCustomer.SelectedValue = int.Parse(dpc.Tables[0].Rows[0]["PrimaryCustomer_ID"].ToString());
+            }
+            catch
+            {
+                //Data not initialised
+            }
+
+        }
+
     }
 }
