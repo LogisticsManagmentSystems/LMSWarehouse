@@ -245,6 +245,7 @@ namespace LMSWarehouse
             catch
             {
                 //Data not initialised
+                //Bollox man!!!
             }
 
         }
