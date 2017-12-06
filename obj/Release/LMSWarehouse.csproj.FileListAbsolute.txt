@@ -1,0 +1,353 @@
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.exe
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.pdb
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\ResolveAssemblyReference.cache
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBinLibrary.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmMain.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmProductLibrary.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.Properties.Resources.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.csproj.GenerateResource.Cache
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.exe
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.pdb
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockPutaway.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockLabelPrint.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\bin\Release\Guifreaks.Common.dll
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\bin\Release\Guifreaks.Navisuite.dll
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\bin\Release\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\bin\Release\Guifreaks.Navisuite.XmlSerializers.dll
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrder.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPassword.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBackOrder.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTake.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeDetail.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmReceiveOrder.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmCustomer.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmGenericReport.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAwayList.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAway.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPickList.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPick.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockAdjustment.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockClothes.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineSalesRep.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOrderEvent.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineOutlet.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBudget.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockEventReturn.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.exe.config
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.XmlSerializers.dll
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.Dispatch.resources
+C:\ZDev\Sauce\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.XmlSerializers.dll
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.exe.config
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.exe
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.pdb
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.XmlSerializers.dll
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.exe
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.XmlSerializers.dll
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.pdb
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\bin\Release\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\bin\Release\Guifreaks.Navisuite.XmlSerializers.dll
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\ResolveAssemblyReference.cache
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBackOrder.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBinLibrary.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBudget.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmCustomer.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.Dispatch.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.fReportDeliveryNote.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmGenericReport.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmMain.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineOutlet.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineSalesRep.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOrderEvent.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPassword.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPick.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPickList.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmProductLibrary.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.Properties.Resources.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAway.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAwayList.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmReceiveOrder.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockAdjustment.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockClothes.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockEventReturn.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockLabelPrint.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrder.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockPutaway.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTake.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeDetail.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.csproj.GenerateResource.Cache
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\RdlCompile.cache
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\RdlCompile.compiled
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.OrderBatch.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockView.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrderList.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemScan.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMove.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemDetail.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmAdminStockMove.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.frmDispatchItems.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItem.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItemDetail.resources
+C:\ZDev\ISCI\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmDispatchLabels.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.exe.config
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.exe
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.pdb
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.XmlSerializers.dll
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.exe
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.XmlSerializers.dll
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.pdb
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\bin\Release\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\bin\Release\Guifreaks.Navisuite.XmlSerializers.dll
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\ResolveAssemblyReference.cache
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmAdminStockMove.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmBackOrder.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmBinLibrary.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmBudget.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmCustomer.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.Dispatch.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.frmDispatchItems.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmDispatchLabels.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.fReportDeliveryNote.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmGenericReport.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemDetail.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemScan.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmMain.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineOutlet.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineSalesRep.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.OrderBatch.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmOrderEvent.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPassword.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPick.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPickList.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmProductLibrary.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.Properties.Resources.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAway.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAwayList.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmReceiveOrder.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockAdjustment.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockClothes.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockEventReturn.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockLabelPrint.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMove.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrder.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrderList.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockPutaway.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTake.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeDetail.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItem.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItemDetail.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockView.resources
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.csproj.GenerateResource.Cache
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\RdlCompile.cache
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\RdlCompile.compiled
+C:\ZDev\ISCI\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMoveOrder.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.exe.config
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.exe
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.pdb
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.XmlSerializers.dll
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.exe
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.XmlSerializers.dll
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.pdb
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\Guifreaks.Navisuite.XmlSerializers.dll
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\ResolveAssemblyReference.cache
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmAdminStockMove.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmBackOrder.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmBinLibrary.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmBudget.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmCustomer.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.Dispatch.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.frmDispatchItems.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmDispatchLabels.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.fReportDeliveryNote.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmGenericReport.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemDetail.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemScan.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmMain.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineOutlet.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineSalesRep.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.OrderBatch.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmOrderEvent.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPassword.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPick.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPickList.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmProductLibrary.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.Properties.Resources.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAway.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAwayList.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmReceiveOrder.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockAdjustment.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockClothes.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockEventReturn.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockLabelPrint.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMove.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMoveOrder.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrder.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrderList.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockPutaway.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTake.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeDetail.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItem.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItemDetail.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockView.resources
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.csproj.GenerateResource.Cache
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\RdlCompile.cache
+C:\My stuff\work\LMS\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\RdlCompile.compiled
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.exe.config
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.exe
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.pdb
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.XmlSerializers.dll
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.exe
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.XmlSerializers.dll
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\LMSWarehouse.pdb
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\bin\Release\Guifreaks.Navisuite.XmlSerializers.dll
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\ResolveAssemblyReference.cache
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmAdminStockMove.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmBackOrder.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmBinLibrary.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmBudget.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmCustomer.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.Dispatch.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.frmDispatchItems.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmDispatchLabels.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.fReportDeliveryNote.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmGenericReport.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemDetail.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemScan.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmMain.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineOutlet.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineSalesRep.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.OrderBatch.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmOrderEvent.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPassword.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPick.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPickList.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmProductLibrary.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.Properties.Resources.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAway.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAwayList.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmReceiveOrder.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockAdjustment.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockClothes.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockEventReturn.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockLabelPrint.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMove.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMoveOrder.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrder.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrderList.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockPutaway.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTake.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeDetail.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItem.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItemDetail.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockView.resources
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\LMSWarehouse.csproj.GenerateResource.Cache
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\RdlCompile.cache
+C:\Justin Folder\projects\LMSWwarehouse\WarehouseBU20151026\LMSWarehouse\obj\Release\RdlCompile.compiled
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.exe.config
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.exe
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.pdb
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.XmlSerializers.dll
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.exe
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.XmlSerializers.dll
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.pdb
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\Guifreaks.Navisuite.XmlSerializers.dll
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmAdminStockMove.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBackOrder.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBinLibrary.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBudget.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmCustomer.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.Dispatch.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.frmDispatchItems.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmDispatchLabels.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.fReportDeliveryNote.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmGenericReport.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemDetail.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemScan.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmMain.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineOutlet.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineSalesRep.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.OrderBatch.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOrderEvent.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPassword.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPick.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPickList.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmProductLibrary.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.Properties.Resources.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAway.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAwayList.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmReceiveOrder.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockAdjustment.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockClothes.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockEventReturn.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockLabelPrint.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMove.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMoveOrder.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrder.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrderList.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockPutaway.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTake.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeDetail.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItem.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItemDetail.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockView.resources
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.csproj.GenerateResource.Cache
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\RdlCompile.cache
+C:\Projects\LMS\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\RdlCompile.compiled
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.exe.config
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.exe
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.pdb
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.XmlSerializers.dll
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.exe
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.XmlSerializers.dll
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\LMSWarehouse.pdb
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\bin\Release\Guifreaks.Navisuite.XmlSerializers.dll
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\ResolveAssemblyReference.cache
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmAdminStockMove.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBackOrder.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBinLibrary.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBudget.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmCustomer.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.Dispatch.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.frmDispatchItems.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmDispatchLabels.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.fReportDeliveryNote.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmGenericReport.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemDetail.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmItemScan.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmMain.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineOutlet.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOnlineSalesRep.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.OrderBatch.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmOrderEvent.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPassword.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPick.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPickList.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmProductLibrary.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.Properties.Resources.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAway.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmPutAwayList.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmReceiveOrder.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockAdjustment.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockClothes.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockEventReturn.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockLabelPrint.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMove.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMoveOrder.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrder.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrderList.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockPutaway.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTake.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeDetail.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItem.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockTakeItemDetail.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockView.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.csproj.GenerateResource.Cache
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\RdlCompile.cache
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\RdlCompile.compiled
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmBatchReceive.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockMoveSKU.resources
+C:\_LMSDev\Temp\LMSWarehouse\Warehouse\LMSWarehouse\obj\Release\LMSWarehouse.FrmStockOrderImport.resources

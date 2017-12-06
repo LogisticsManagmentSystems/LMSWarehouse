@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://www.supaswift.co.za/SupaService/WebService/SupaTask.asmx?wsdl" docRef="http://www.supaswift.co.za/SupaService/WebService/SupaTask.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://www.supaswift.co.za/SupaService/WebService/SupaTask.asmx" xmlns:q1="http://fedex.supaswift.co.za/" binding="q1:SupaTaskSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://www.supaswift.co.za/SupaService/WebService/SupaTask.asmx" xmlns:q2="http://fedex.supaswift.co.za/" binding="q2:SupaTaskSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

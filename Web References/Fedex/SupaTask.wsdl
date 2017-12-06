@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://fedex.supaswift.co.za/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://fedex.supaswift.co.za/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://fedex.supaswift.co.za/">
+      <s:element name="CaptureParcel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ParcelNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="WaybillNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AccountNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CustomerRef" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CostCentre" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CustomerName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ShipmentAdd1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ShipmentAdd2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ShipmentAdd3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ShipmentAdd4" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ShipmentPostalCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ShipmentCountryID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CustomerPhone" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ShipperServiceID" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Weight" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="Length" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="Width" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="Height" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="Value" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="DispatchDate" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="WeekendDelivery" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="SequenceNumber" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="SequenceTotal" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="SpecialInstructions" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PickupCompanyName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PickupAdd1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PickupAdd2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PickupAdd3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PickupAdd4" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PickupPostalCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PickupCountryID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PickupPhone" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Insured" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="IsCollection" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CaptureParcelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CaptureParcelResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CancelItem">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AccountNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="WaybillNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ParcelNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Reason" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="CancelEntireWaybill" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CancelItemResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CancelItemResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ErrorDetail">
+        <s:complexType />
+      </s:element>
+      <s:element name="ErrorDetailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ErrorDetailResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="MyFocisLogin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Company" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="MyFocisLoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="MyFocisLoginResult" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DimensionUpdate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SessionID" type="s:long" />
+            <s:element minOccurs="0" maxOccurs="1" name="ParcelNumber" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ScanCode" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Height" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="Width" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="Length" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="Weight" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="ScanDateTime" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="Comment" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DimensionUpdateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DimensionUpdateResult" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="string" nillable="true" type="s:string" />
+      <s:element name="long" type="s:long" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CaptureParcelSoapIn">
+    <wsdl:part name="parameters" element="tns:CaptureParcel" />
+  </wsdl:message>
+  <wsdl:message name="CaptureParcelSoapOut">
+    <wsdl:part name="parameters" element="tns:CaptureParcelResponse" />
+  </wsdl:message>
+  <wsdl:message name="CancelItemSoapIn">
+    <wsdl:part name="parameters" element="tns:CancelItem" />
+  </wsdl:message>
+  <wsdl:message name="CancelItemSoapOut">
+    <wsdl:part name="parameters" element="tns:CancelItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="ErrorDetailSoapIn">
+    <wsdl:part name="parameters" element="tns:ErrorDetail" />
+  </wsdl:message>
+  <wsdl:message name="ErrorDetailSoapOut">
+    <wsdl:part name="parameters" element="tns:ErrorDetailResponse" />
+  </wsdl:message>
+  <wsdl:message name="MyFocisLoginSoapIn">
+    <wsdl:part name="parameters" element="tns:MyFocisLogin" />
+  </wsdl:message>
+  <wsdl:message name="MyFocisLoginSoapOut">
+    <wsdl:part name="parameters" element="tns:MyFocisLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="DimensionUpdateSoapIn">
+    <wsdl:part name="parameters" element="tns:DimensionUpdate" />
+  </wsdl:message>
+  <wsdl:message name="DimensionUpdateSoapOut">
+    <wsdl:part name="parameters" element="tns:DimensionUpdateResponse" />
+  </wsdl:message>
+  <wsdl:message name="CaptureParcelHttpGetIn">
+    <wsdl:part name="ParcelNumber" type="s:string" />
+    <wsdl:part name="WaybillNumber" type="s:string" />
+    <wsdl:part name="AccountNumber" type="s:string" />
+    <wsdl:part name="CustomerRef" type="s:string" />
+    <wsdl:part name="CostCentre" type="s:string" />
+    <wsdl:part name="CustomerName" type="s:string" />
+    <wsdl:part name="ShipmentAdd1" type="s:string" />
+    <wsdl:part name="ShipmentAdd2" type="s:string" />
+    <wsdl:part name="ShipmentAdd3" type="s:string" />
+    <wsdl:part name="ShipmentAdd4" type="s:string" />
+    <wsdl:part name="ShipmentPostalCode" type="s:string" />
+    <wsdl:part name="ShipmentCountryID" type="s:string" />
+    <wsdl:part name="CustomerPhone" type="s:string" />
+    <wsdl:part name="ShipperServiceID" type="s:string" />
+    <wsdl:part name="Weight" type="s:string" />
+    <wsdl:part name="Length" type="s:string" />
+    <wsdl:part name="Width" type="s:string" />
+    <wsdl:part name="Height" type="s:string" />
+    <wsdl:part name="Value" type="s:string" />
+    <wsdl:part name="DispatchDate" type="s:string" />
+    <wsdl:part name="WeekendDelivery" type="s:string" />
+    <wsdl:part name="SequenceNumber" type="s:string" />
+    <wsdl:part name="SequenceTotal" type="s:string" />
+    <wsdl:part name="SpecialInstructions" type="s:string" />
+    <wsdl:part name="PickupCompanyName" type="s:string" />
+    <wsdl:part name="PickupAdd1" type="s:string" />
+    <wsdl:part name="PickupAdd2" type="s:string" />
+    <wsdl:part name="PickupAdd3" type="s:string" />
+    <wsdl:part name="PickupAdd4" type="s:string" />
+    <wsdl:part name="PickupPostalCode" type="s:string" />
+    <wsdl:part name="PickupCountryID" type="s:string" />
+    <wsdl:part name="PickupPhone" type="s:string" />
+    <wsdl:part name="Insured" type="s:string" />
+    <wsdl:part name="IsCollection" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CaptureParcelHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="CancelItemHttpGetIn">
+    <wsdl:part name="AccountNumber" type="s:string" />
+    <wsdl:part name="WaybillNumber" type="s:string" />
+    <wsdl:part name="ParcelNumber" type="s:string" />
+    <wsdl:part name="Reason" type="s:string" />
+    <wsdl:part name="CancelEntireWaybill" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CancelItemHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="ErrorDetailHttpGetIn" />
+  <wsdl:message name="ErrorDetailHttpGetOut">
+    <wsdl:part name="Body" />
+  </wsdl:message>
+  <wsdl:message name="MyFocisLoginHttpGetIn">
+    <wsdl:part name="Username" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="Company" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="MyFocisLoginHttpGetOut">
+    <wsdl:part name="Body" element="tns:long" />
+  </wsdl:message>
+  <wsdl:message name="DimensionUpdateHttpGetIn">
+    <wsdl:part name="SessionID" type="s:string" />
+    <wsdl:part name="ParcelNumber" type="s:string" />
+    <wsdl:part name="ScanCode" type="s:string" />
+    <wsdl:part name="Height" type="s:string" />
+    <wsdl:part name="Width" type="s:string" />
+    <wsdl:part name="Length" type="s:string" />
+    <wsdl:part name="Weight" type="s:string" />
+    <wsdl:part name="ScanDateTime" type="s:string" />
+    <wsdl:part name="Comment" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="DimensionUpdateHttpGetOut">
+    <wsdl:part name="Body" element="tns:long" />
+  </wsdl:message>
+  <wsdl:message name="CaptureParcelHttpPostIn">
+    <wsdl:part name="ParcelNumber" type="s:string" />
+    <wsdl:part name="WaybillNumber" type="s:string" />
+    <wsdl:part name="AccountNumber" type="s:string" />
+    <wsdl:part name="CustomerRef" type="s:string" />
+    <wsdl:part name="CostCentre" type="s:string" />
+    <wsdl:part name="CustomerName" type="s:string" />
+    <wsdl:part name="ShipmentAdd1" type="s:string" />
+    <wsdl:part name="ShipmentAdd2" type="s:string" />
+    <wsdl:part name="ShipmentAdd3" type="s:string" />
+    <wsdl:part name="ShipmentAdd4" type="s:string" />
+    <wsdl:part name="ShipmentPostalCode" type="s:string" />
+    <wsdl:part name="ShipmentCountryID" type="s:string" />
+    <wsdl:part name="CustomerPhone" type="s:string" />
+    <wsdl:part name="ShipperServiceID" type="s:string" />
+    <wsdl:part name="Weight" type="s:string" />
+    <wsdl:part name="Length" type="s:string" />
+    <wsdl:part name="Width" type="s:string" />
+    <wsdl:part name="Height" type="s:string" />
+    <wsdl:part name="Value" type="s:string" />
+    <wsdl:part name="DispatchDate" type="s:string" />
+    <wsdl:part name="WeekendDelivery" type="s:string" />
+    <wsdl:part name="SequenceNumber" type="s:string" />
+    <wsdl:part name="SequenceTotal" type="s:string" />
+    <wsdl:part name="SpecialInstructions" type="s:string" />
+    <wsdl:part name="PickupCompanyName" type="s:string" />
+    <wsdl:part name="PickupAdd1" type="s:string" />
+    <wsdl:part name="PickupAdd2" type="s:string" />
+    <wsdl:part name="PickupAdd3" type="s:string" />
+    <wsdl:part name="PickupAdd4" type="s:string" />
+    <wsdl:part name="PickupPostalCode" type="s:string" />
+    <wsdl:part name="PickupCountryID" type="s:string" />
+    <wsdl:part name="PickupPhone" type="s:string" />
+    <wsdl:part name="Insured" type="s:string" />
+    <wsdl:part name="IsCollection" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CaptureParcelHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="CancelItemHttpPostIn">
+    <wsdl:part name="AccountNumber" type="s:string" />
+    <wsdl:part name="WaybillNumber" type="s:string" />
+    <wsdl:part name="ParcelNumber" type="s:string" />
+    <wsdl:part name="Reason" type="s:string" />
+    <wsdl:part name="CancelEntireWaybill" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CancelItemHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="ErrorDetailHttpPostIn" />
+  <wsdl:message name="ErrorDetailHttpPostOut">
+    <wsdl:part name="Body" />
+  </wsdl:message>
+  <wsdl:message name="MyFocisLoginHttpPostIn">
+    <wsdl:part name="Username" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="Company" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="MyFocisLoginHttpPostOut">
+    <wsdl:part name="Body" element="tns:long" />
+  </wsdl:message>
+  <wsdl:message name="DimensionUpdateHttpPostIn">
+    <wsdl:part name="SessionID" type="s:string" />
+    <wsdl:part name="ParcelNumber" type="s:string" />
+    <wsdl:part name="ScanCode" type="s:string" />
+    <wsdl:part name="Height" type="s:string" />
+    <wsdl:part name="Width" type="s:string" />
+    <wsdl:part name="Length" type="s:string" />
+    <wsdl:part name="Weight" type="s:string" />
+    <wsdl:part name="ScanDateTime" type="s:string" />
+    <wsdl:part name="Comment" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="DimensionUpdateHttpPostOut">
+    <wsdl:part name="Body" element="tns:long" />
+  </wsdl:message>
+  <wsdl:portType name="SupaTaskSoap">
+    <wsdl:operation name="CaptureParcel">
+      <wsdl:input message="tns:CaptureParcelSoapIn" />
+      <wsdl:output message="tns:CaptureParcelSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CancelItem">
+      <wsdl:input message="tns:CancelItemSoapIn" />
+      <wsdl:output message="tns:CancelItemSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorDetail">
+      <wsdl:input message="tns:ErrorDetailSoapIn" />
+      <wsdl:output message="tns:ErrorDetailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="MyFocisLogin">
+      <wsdl:input message="tns:MyFocisLoginSoapIn" />
+      <wsdl:output message="tns:MyFocisLoginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DimensionUpdate">
+      <wsdl:input message="tns:DimensionUpdateSoapIn" />
+      <wsdl:output message="tns:DimensionUpdateSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="SupaTaskHttpGet">
+    <wsdl:operation name="CaptureParcel">
+      <wsdl:input message="tns:CaptureParcelHttpGetIn" />
+      <wsdl:output message="tns:CaptureParcelHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CancelItem">
+      <wsdl:input message="tns:CancelItemHttpGetIn" />
+      <wsdl:output message="tns:CancelItemHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorDetail">
+      <wsdl:input message="tns:ErrorDetailHttpGetIn" />
+      <wsdl:output message="tns:ErrorDetailHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="MyFocisLogin">
+      <wsdl:input message="tns:MyFocisLoginHttpGetIn" />
+      <wsdl:output message="tns:MyFocisLoginHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DimensionUpdate">
+      <wsdl:input message="tns:DimensionUpdateHttpGetIn" />
+      <wsdl:output message="tns:DimensionUpdateHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="SupaTaskHttpPost">
+    <wsdl:operation name="CaptureParcel">
+      <wsdl:input message="tns:CaptureParcelHttpPostIn" />
+      <wsdl:output message="tns:CaptureParcelHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CancelItem">
+      <wsdl:input message="tns:CancelItemHttpPostIn" />
+      <wsdl:output message="tns:CancelItemHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ErrorDetail">
+      <wsdl:input message="tns:ErrorDetailHttpPostIn" />
+      <wsdl:output message="tns:ErrorDetailHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="MyFocisLogin">
+      <wsdl:input message="tns:MyFocisLoginHttpPostIn" />
+      <wsdl:output message="tns:MyFocisLoginHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DimensionUpdate">
+      <wsdl:input message="tns:DimensionUpdateHttpPostIn" />
+      <wsdl:output message="tns:DimensionUpdateHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SupaTaskSoap" type="tns:SupaTaskSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CaptureParcel">
+      <soap:operation soapAction="http://fedex.supaswift.co.za/CaptureParcel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelItem">
+      <soap:operation soapAction="http://fedex.supaswift.co.za/CancelItem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorDetail">
+      <soap:operation soapAction="http://fedex.supaswift.co.za/ErrorDetail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MyFocisLogin">
+      <soap:operation soapAction="http://fedex.supaswift.co.za/MyFocisLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DimensionUpdate">
+      <soap:operation soapAction="http://fedex.supaswift.co.za/DimensionUpdate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SupaTaskSoap12" type="tns:SupaTaskSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CaptureParcel">
+      <soap12:operation soapAction="http://fedex.supaswift.co.za/CaptureParcel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelItem">
+      <soap12:operation soapAction="http://fedex.supaswift.co.za/CancelItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorDetail">
+      <soap12:operation soapAction="http://fedex.supaswift.co.za/ErrorDetail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MyFocisLogin">
+      <soap12:operation soapAction="http://fedex.supaswift.co.za/MyFocisLogin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DimensionUpdate">
+      <soap12:operation soapAction="http://fedex.supaswift.co.za/DimensionUpdate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SupaTaskHttpGet" type="tns:SupaTaskHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="CaptureParcel">
+      <http:operation location="/CaptureParcel" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelItem">
+      <http:operation location="/CancelItem" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorDetail">
+      <http:operation location="/ErrorDetail" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="Body" type="text/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MyFocisLogin">
+      <http:operation location="/MyFocisLogin" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DimensionUpdate">
+      <http:operation location="/DimensionUpdate" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SupaTaskHttpPost" type="tns:SupaTaskHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="CaptureParcel">
+      <http:operation location="/CaptureParcel" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelItem">
+      <http:operation location="/CancelItem" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ErrorDetail">
+      <http:operation location="/ErrorDetail" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="Body" type="text/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MyFocisLogin">
+      <http:operation location="/MyFocisLogin" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DimensionUpdate">
+      <http:operation location="/DimensionUpdate" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SupaTask">
+    <wsdl:port name="SupaTaskSoap" binding="tns:SupaTaskSoap">
+      <soap:address location="http://www.supaswift.co.za/SupaService/WebService/SupaTask.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SupaTaskSoap12" binding="tns:SupaTaskSoap12">
+      <soap12:address location="http://www.supaswift.co.za/SupaService/WebService/SupaTask.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SupaTaskHttpGet" binding="tns:SupaTaskHttpGet">
+      <http:address location="http://www.supaswift.co.za/SupaService/WebService/SupaTask.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SupaTaskHttpPost" binding="tns:SupaTaskHttpPost">
+      <http:address location="http://www.supaswift.co.za/SupaService/WebService/SupaTask.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

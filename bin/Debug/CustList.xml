@@ -1,0 +1,1219 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ID>259</ID>
+    <Name>ACTION FORD                                       -(KRUG)</Name>
+  </Table1>
+  <Table1>
+    <ID>105</ID>
+    <Name>ACTION FORD &amp; MAZDA                               -(ABBO)</Name>
+  </Table1>
+  <Table1>
+    <ID>146</ID>
+    <Name>ALIWAL FORD                                       -(ALIW)</Name>
+  </Table1>
+  <Table1>
+    <ID>67</ID>
+    <Name>ALLEN JOSS MOTORS                                 -(PRET)</Name>
+  </Table1>
+  <Table1>
+    <ID>2773</ID>
+    <Name>ALLEN JOSS MOTORS                                 -(ANNL)</Name>
+  </Table1>
+  <Table1>
+    <ID>18</ID>
+    <Name>ALLMAKES (STURROCK S HIPPING)-(KEMP)</Name>
+  </Table1>
+  <Table1>
+    <ID>106</ID>
+    <Name>AMALGAMATED AUTO-(GEOR)</Name>
+  </Table1>
+  <Table1>
+    <ID>90</ID>
+    <Name>AMC AMCAR-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>42</ID>
+    <Name>ANDRAG AUTO MOORREESBURG-(MOOR)</Name>
+  </Table1>
+  <Table1>
+    <ID>43</ID>
+    <Name>ANDRAG AUTO MOSSEL BAY-(MOSS)</Name>
+  </Table1>
+  <Table1>
+    <ID>11</ID>
+    <Name>AURINIA MOTORS                                    -(SILV)</Name>
+  </Table1>
+  <Table1>
+    <ID>279</ID>
+    <Name>AUTO AIRCON EXCHANGE  (PTY)LTD                    -(EAST)</Name>
+  </Table1>
+  <Table1>
+    <ID>87</ID>
+    <Name>Auto Zuid LDA-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>22</ID>
+    <Name>Autologistic-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>79</ID>
+    <Name>Automotive-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>74</ID>
+    <Name>Automotive Sales-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>8</ID>
+    <Name>AWH MOTORS-(GOOD)</Name>
+  </Table1>
+  <Table1>
+    <ID>229</ID>
+    <Name>AXESS-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>147</ID>
+    <Name>B&amp;M FORD-(SWEL)</Name>
+  </Table1>
+  <Table1>
+    <ID>168</ID>
+    <Name>B&amp;M FORD AND MAZDA-(BRED)</Name>
+  </Table1>
+  <Table1>
+    <ID>35</ID>
+    <Name>B&amp;R MOTORS-(DELA)</Name>
+  </Table1>
+  <Table1>
+    <ID>6</ID>
+    <Name>BainsFord (ex Citrona)-(WELL)</Name>
+  </Table1>
+  <Table1>
+    <ID>11489</ID>
+    <Name>BALLITO AUTO-(DOLP)</Name>
+  </Table1>
+  <Table1>
+    <ID>162</ID>
+    <Name>BARLOWORLD ALBERTON                               -(NEW )</Name>
+  </Table1>
+  <Table1>
+    <ID>112</ID>
+    <Name>BARLOWORLD ARMSTONG CPT-(CAPE)</Name>
+  </Table1>
+  <Table1>
+    <ID>119</ID>
+    <Name>BARLOWORLD ARMSTRONG  PARTS CEN-(JOHA)</Name>
+  </Table1>
+  <Table1>
+    <ID>114</ID>
+    <Name>BARLOWORLD BOTSWANA                               -(COMM)</Name>
+  </Table1>
+  <Table1>
+    <ID>152</ID>
+    <Name>BARLOWORLD BRUMA                                  -(SELB)</Name>
+  </Table1>
+  <Table1>
+    <ID>4809</ID>
+    <Name>BARLOWORLD PARTS CEN TRE                          -(GOOD)</Name>
+  </Table1>
+  <Table1>
+    <ID>3267</ID>
+    <Name>BARLOWORLD PARTS CEN TRE CT                       -(CAPE)</Name>
+  </Table1>
+  <Table1>
+    <ID>126</ID>
+    <Name>BARLOWORLD PIETERMAR ITZBURG                      -(PIET)</Name>
+  </Table1>
+  <Table1>
+    <ID>129</ID>
+    <Name>BARLOWORLD PINETOWN                               -(PINE)</Name>
+  </Table1>
+  <Table1>
+    <ID>13959</ID>
+    <Name>BARLOWORLD SELBY (SC RAP ONLY)                    -(SELB)</Name>
+  </Table1>
+  <Table1>
+    <ID>117</ID>
+    <Name>BASIL GREEN AUTO-(EDEN)</Name>
+  </Table1>
+  <Table1>
+    <ID>104</ID>
+    <Name>BECKER AUTO-(MALM)</Name>
+  </Table1>
+  <Table1>
+    <ID>149</ID>
+    <Name>BEN MORGENROOD AUTO                               -(RAND)</Name>
+  </Table1>
+  <Table1>
+    <ID>50</ID>
+    <Name>BESTERS AUTO-(VICT)</Name>
+  </Table1>
+  <Table1>
+    <ID>244</ID>
+    <Name>Birkin Cars-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>12</ID>
+    <Name>BODY PARTS: SERVICEC ENTRE-(SILV)</Name>
+  </Table1>
+  <Table1>
+    <ID>150</ID>
+    <Name>BRAND AUTO-(VRED)</Name>
+  </Table1>
+  <Table1>
+    <ID>3990</ID>
+    <Name>BRIDGE AUTO-(LIMP)</Name>
+  </Table1>
+  <Table1>
+    <ID>261</ID>
+    <Name>BRIDGE AUTO &amp; TRACTOR LOUIS TRICHARDT-(LOUI)</Name>
+  </Table1>
+  <Table1>
+    <ID>12477</ID>
+    <Name>C RAND -(DURB)</Name>
+  </Table1>
+  <Table1>
+    <ID>12478</ID>
+    <Name>C RAND-(JOHA)</Name>
+  </Table1>
+  <Table1>
+    <ID>125</ID>
+    <Name>C&amp;G MOTORS MARIENTAL                              -(MARI)</Name>
+  </Table1>
+  <Table1>
+    <ID>7987</ID>
+    <Name>CAB CRONJE AUTO BODY-(SILV)</Name>
+  </Table1>
+  <Table1>
+    <ID>177</ID>
+    <Name>CARSON AUTO                                       -(MANZ)</Name>
+  </Table1>
+  <Table1>
+    <ID>103</ID>
+    <Name>CASSEY'S AUTO                                     -(BENO)</Name>
+  </Table1>
+  <Table1>
+    <ID>144</ID>
+    <Name>CASSEYS AUTO SPRINGS-(SPRI)</Name>
+  </Table1>
+  <Table1>
+    <ID>262</ID>
+    <Name>CENTURION GEARBOX &amp; DIFF-(CENT)</Name>
+  </Table1>
+  <Table1>
+    <ID>234</ID>
+    <Name>CFAO MALAWI-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>164</ID>
+    <Name>CFAO MALAWI LIMITED-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>38</ID>
+    <Name>CFMA SHANGHAI PDC-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>256</ID>
+    <Name>CFMA SHANGHAI PDC-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>242</ID>
+    <Name>Changan Ford-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>235</ID>
+    <Name>CMC AUTOMOBILES-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>165</ID>
+    <Name>CMC AUTOMOBILES LTD-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>230</ID>
+    <Name>CMC MOTORS GROUP-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>83</ID>
+    <Name>CMC MOTORS GROUP LTD-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>32</ID>
+    <Name>CMC Uganda-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>72</ID>
+    <Name>CONSOLIDATED AUTO                                 -(BOKS)</Name>
+  </Table1>
+  <Table1>
+    <ID>220</ID>
+    <Name>COOPER MOTOR CORP-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>255</ID>
+    <Name>COOPER MOTOR CORP-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>132</ID>
+    <Name>COUNTY AUTO-(PORT)</Name>
+  </Table1>
+  <Table1>
+    <ID>281</ID>
+    <Name>CSO MARKETING                                     -(M MB)</Name>
+  </Table1>
+  <Table1>
+    <ID>9720</ID>
+    <Name>CSO PURCHASING EXP M ATERIAL                      -(SIMO)</Name>
+  </Table1>
+  <Table1>
+    <ID>37</ID>
+    <Name>CWL BAARD AUTO-(HOPE)</Name>
+  </Table1>
+  <Table1>
+    <ID>134</ID>
+    <Name>DALY AUTO  POTCHEFST ROOM-(POTC)</Name>
+  </Table1>
+  <Table1>
+    <ID>158</ID>
+    <Name>DALY AUTO KLERKSDORP                              -(KLER)</Name>
+  </Table1>
+  <Table1>
+    <ID>188</ID>
+    <Name>DALY LAND ROVER CENT RE-(POTC)</Name>
+  </Table1>
+  <Table1>
+    <ID>41</ID>
+    <Name>DAWELLA AUTO-(SPRI)</Name>
+  </Table1>
+  <Table1>
+    <ID>9558</ID>
+    <Name>DEVLEI DIENSSTASIE-(Graa)</Name>
+  </Table1>
+  <Table1>
+    <ID>77</ID>
+    <Name>DRIES MOTORS (PTY) L TD                           -(HARR)</Name>
+  </Table1>
+  <Table1>
+    <ID>85</ID>
+    <Name>Duly Motors-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>127</ID>
+    <Name>EAGLE AUTO                                        -(KEW )</Name>
+  </Table1>
+  <Table1>
+    <ID>9</ID>
+    <Name>EASTCLIFF AUTO-(HERM)</Name>
+  </Table1>
+  <Table1>
+    <ID>46</ID>
+    <Name>EASTERN CAPE MOTORS                               -(NORT)</Name>
+  </Table1>
+  <Table1>
+    <ID>47</ID>
+    <Name>EASTERN CAPE MOTORS EL-(EAST)</Name>
+  </Table1>
+  <Table1>
+    <ID>130</ID>
+    <Name>EASTERN CAPE MOTORS P ALFRED-(PORT)</Name>
+  </Table1>
+  <Table1>
+    <ID>49</ID>
+    <Name>EASTERN CAPE MOTORS PE-(PORT)</Name>
+  </Table1>
+  <Table1>
+    <ID>48</ID>
+    <Name>EASTERN CAPE MOTORS UITENHAGE-(UITE)</Name>
+  </Table1>
+  <Table1>
+    <ID>116</ID>
+    <Name>EASTERN CAPE MOTORS( KWT)-(KING)</Name>
+  </Table1>
+  <Table1>
+    <ID>155</ID>
+    <Name>EASTVAAL AUTO-(Witb)</Name>
+  </Table1>
+  <Table1>
+    <ID>143</ID>
+    <Name>EASTVAAL FORD-(SECU)</Name>
+  </Table1>
+  <Table1>
+    <ID>8623</ID>
+    <Name>EASY BEAT                                         -(PRET)</Name>
+  </Table1>
+  <Table1>
+    <ID>97</ID>
+    <Name>EEN STOP FORD-(OUDT)</Name>
+  </Table1>
+  <Table1>
+    <ID>139</ID>
+    <Name>ELAUTO &amp; TREKKERS-(POTG)</Name>
+  </Table1>
+  <Table1>
+    <ID>52</ID>
+    <Name>EXCELSIOR MOTORS-(QUEE)</Name>
+  </Table1>
+  <Table1>
+    <ID>243</ID>
+    <Name>FCSD  US-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>167</ID>
+    <Name>FED AUTO-(NEWC)</Name>
+  </Table1>
+  <Table1>
+    <ID>25</ID>
+    <Name>Ford Argentina-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>12404</ID>
+    <Name>FORD ARGENTINA SCA                                -(Y PA)</Name>
+  </Table1>
+  <Table1>
+    <ID>294</ID>
+    <Name>FORD CKD                                          -(C VE)</Name>
+  </Table1>
+  <Table1>
+    <ID>241</ID>
+    <Name>Ford Component-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>291</ID>
+    <Name>FORD COMPONENT ENG                                -(D CR)</Name>
+  </Table1>
+  <Table1>
+    <ID>225</ID>
+    <Name>FORD DAVENTRY-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>19</ID>
+    <Name>Ford Daventry-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>61</ID>
+    <Name>FORD DAVENTRY PARTSD EPOT-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>15</ID>
+    <Name>FORD ENGINE PLANT-(PORT)</Name>
+  </Table1>
+  <Table1>
+    <ID>289</ID>
+    <Name>FORD FORK TRUCK MAIN TENANCE                      -(R RO)</Name>
+  </Table1>
+  <Table1>
+    <ID>81</ID>
+    <Name>Ford Germany-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>223</ID>
+    <Name>FORD GROUP-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>169</ID>
+    <Name>Ford India-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>221</ID>
+    <Name>FORD INDIA PDC-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>280</ID>
+    <Name>FORD INDIA PDC                                    -(SP K)</Name>
+  </Table1>
+  <Table1>
+    <ID>240</ID>
+    <Name>Ford Lio Ho Motor-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>227</ID>
+    <Name>FORD MALAYSIA-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>239</ID>
+    <Name>Ford Motor-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>252</ID>
+    <Name>FORD MOTOR-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>253</ID>
+    <Name>Ford Motor-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>296</ID>
+    <Name>FORD MOTOR CO. BRAZI L LTDA.                      -(QUER)</Name>
+  </Table1>
+  <Table1>
+    <ID>3991</ID>
+    <Name>FORD MOTOR COMPANY-(PRET)</Name>
+  </Table1>
+  <Table1>
+    <ID>258</ID>
+    <Name>Ford NPDC CSO Silverton-(Silv)</Name>
+  </Table1>
+  <Table1>
+    <ID>224</ID>
+    <Name>FORD OF AUSTRALIA-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>59</ID>
+    <Name>FORD OF AUSTRALIA-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>248</ID>
+    <Name>Ford of Canada-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>251</ID>
+    <Name>Ford of Malaysia-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>222</ID>
+    <Name>FORD OPERATIONS-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>44</ID>
+    <Name>FORD OPERATIONS (THAILAND) CO.-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>24</ID>
+    <Name>Ford Philippines-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>237</ID>
+    <Name>Ford Philippines-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>293</ID>
+    <Name>FORD PRODUCTION MATE RIAL PLANT                   -(A DU)</Name>
+  </Table1>
+  <Table1>
+    <ID>932</ID>
+    <Name>FORD PUBLIC AFFAIRS                               -(C VO)</Name>
+  </Table1>
+  <Table1>
+    <ID>14</ID>
+    <Name>FORD SERVICE CENTRE-(SILV)</Name>
+  </Table1>
+  <Table1>
+    <ID>931</ID>
+    <Name>FORD SERVICE GARAGE                               -(WALT)</Name>
+  </Table1>
+  <Table1>
+    <ID>283</ID>
+    <Name>FORD TECHNICAL SERVI CES                          -(WALT)</Name>
+  </Table1>
+  <Table1>
+    <ID>13</ID>
+    <Name>FORD TEST OPERATIONS-(SILV)</Name>
+  </Table1>
+  <Table1>
+    <ID>232</ID>
+    <Name>Ford Vietnam-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>228</ID>
+    <Name>FORD VIETNAM LTD-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>10068</ID>
+    <Name>FORD WARRANTIES                                   -(SILV)</Name>
+  </Table1>
+  <Table1>
+    <ID>226</ID>
+    <Name>FORD WERKE AG-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>62</ID>
+    <Name>FORD WERKE AG-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>218</ID>
+    <Name>FOURWAY MOTORS LANDR OVER-(THRE)</Name>
+  </Table1>
+  <Table1>
+    <ID>93</ID>
+    <Name>FURY FORD                                         -(COMM)</Name>
+  </Table1>
+  <Table1>
+    <ID>219</ID>
+    <Name>FURY FORD &amp; MAZDA-(PAUL)</Name>
+  </Table1>
+  <Table1>
+    <ID>161</ID>
+    <Name>GALACTIC AUTO-(PIET)</Name>
+  </Table1>
+  <Table1>
+    <ID>68</ID>
+    <Name>GANIS AUTO-(HEID)</Name>
+  </Table1>
+  <Table1>
+    <ID>277</ID>
+    <Name>GEARBOX &amp; DIFF CENTR E (PTY) LT                   -(WALT)</Name>
+  </Table1>
+  <Table1>
+    <ID>128</ID>
+    <Name>GEY AUTO AND TRACTOR S                            -(OTJI)</Name>
+  </Table1>
+  <Table1>
+    <ID>7874</ID>
+    <Name>GLOBAL FLEET SALES S A                            -(SIMO)</Name>
+  </Table1>
+  <Table1>
+    <ID>10757</ID>
+    <Name>GLOBAL FLEET SALES S A (PTY)                      -(SIMO)</Name>
+  </Table1>
+  <Table1>
+    <ID>159</ID>
+    <Name>GLOBAL FORD AND MAZD A MENLYN                     -(MENL)</Name>
+  </Table1>
+  <Table1>
+    <ID>100</ID>
+    <Name>HATFIELD FORD (PARTS )-(HATF)</Name>
+  </Table1>
+  <Table1>
+    <ID>30</ID>
+    <Name>HATFIELD FORD PARTS                               -(HATF)</Name>
+  </Table1>
+  <Table1>
+    <ID>1066</ID>
+    <Name>HIAUTO                                            -(ESTC)</Name>
+  </Table1>
+  <Table1>
+    <ID>7</ID>
+    <Name>HOFFELDT AUTO                                     -(BRON)</Name>
+  </Table1>
+  <Table1>
+    <ID>4871</ID>
+    <Name>HUGHES MOTORS TANZAN IA LTD                       -(USA )</Name>
+  </Table1>
+  <Table1>
+    <ID>54</ID>
+    <Name>HUMAN AUTO-(KIMB)</Name>
+  </Table1>
+  <Table1>
+    <ID>53</ID>
+    <Name>HUMAN MOTORS BLM-(BLOE)</Name>
+  </Table1>
+  <Table1>
+    <ID>55</ID>
+    <Name>HUMAN MOTORS WELKOM-(WELK)</Name>
+  </Table1>
+  <Table1>
+    <ID>107</ID>
+    <Name>Hunt Deltel-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>233</ID>
+    <Name>HUNT DELTEL &amp; CO-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>231</ID>
+    <Name>INTERAUTO-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>91</ID>
+    <Name>INTERAUTO COMERCIA AUTOMOVELL-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>292</ID>
+    <Name>ITOCHU AUTO AFRICA ( PTY)LTD                      -(AMBY)</Name>
+  </Table1>
+  <Table1>
+    <ID>89</ID>
+    <Name>J &amp; M Motors-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>156</ID>
+    <Name>JAFFES FORD-(WORC)</Name>
+  </Table1>
+  <Table1>
+    <ID>173</ID>
+    <Name>JAGUAR BEDFORDVIEW-(BEDF)</Name>
+  </Table1>
+  <Table1>
+    <ID>175</ID>
+    <Name>JAGUAR BLOEMFONTEIN-(BLOE)</Name>
+  </Table1>
+  <Table1>
+    <ID>88</ID>
+    <Name>JAGUAR BRYANSTON-(BRYA)</Name>
+  </Table1>
+  <Table1>
+    <ID>172</ID>
+    <Name>JAGUAR CAPE TOWN-(CAPE)</Name>
+  </Table1>
+  <Table1>
+    <ID>170</ID>
+    <Name>JAGUAR CENTURION-(CENT)</Name>
+  </Table1>
+  <Table1>
+    <ID>171</ID>
+    <Name>JAGUAR DURBAN-(DURB)</Name>
+  </Table1>
+  <Table1>
+    <ID>174</ID>
+    <Name>JAGUAR GABORONE-(GABO)</Name>
+  </Table1>
+  <Table1>
+    <ID>176</ID>
+    <Name>JAGUAR VEREENIGING-(VERE)</Name>
+  </Table1>
+  <Table1>
+    <ID>5</ID>
+    <Name>JWAUTO-(CRAD)</Name>
+  </Table1>
+  <Table1>
+    <ID>3850</ID>
+    <Name>K&amp;H FREIGHT-(JET )</Name>
+  </Table1>
+  <Table1>
+    <ID>3848</ID>
+    <Name>K&amp;H FREIGT-(JOHA)</Name>
+  </Table1>
+  <Table1>
+    <ID>142</ID>
+    <Name>KAIRUZ MOTORS-(SCWE)</Name>
+  </Table1>
+  <Table1>
+    <ID>123</ID>
+    <Name>KELFORDS FORD AND MA ZDA-(SOME)</Name>
+  </Table1>
+  <Table1>
+    <ID>131</ID>
+    <Name>KEMPENA MOTORS-(CITR)</Name>
+  </Table1>
+  <Table1>
+    <ID>111</ID>
+    <Name>KEMPSTER AUTO-(DURB)</Name>
+  </Table1>
+  <Table1>
+    <ID>110</ID>
+    <Name>KEMPSTER AUTO BLUFF                               -(DURB)</Name>
+  </Table1>
+  <Table1>
+    <ID>4190</ID>
+    <Name>KEMPSTER AUTO BULK                                -(DURB)</Name>
+  </Table1>
+  <Table1>
+    <ID>11763</ID>
+    <Name>KEMPSTER UMHLANGA                                 -(MOUN)</Name>
+  </Table1>
+  <Table1>
+    <ID>247</ID>
+    <Name>Kingston Ind-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>115</ID>
+    <Name>KOUGA FORD-(HUMA)</Name>
+  </Table1>
+  <Table1>
+    <ID>183</ID>
+    <Name>LAND ROVER BEDFORDVIEW-(BEDF)</Name>
+  </Table1>
+  <Table1>
+    <ID>181</ID>
+    <Name>LAND ROVER BLOEMFONTEIN-(BLOE)</Name>
+  </Table1>
+  <Table1>
+    <ID>190</ID>
+    <Name>LAND ROVER CAPE TOWN-(CAPE)</Name>
+  </Table1>
+  <Table1>
+    <ID>185</ID>
+    <Name>LAND ROVER CENTURION-(CENT)</Name>
+  </Table1>
+  <Table1>
+    <ID>197</ID>
+    <Name>LAND ROVER CONSTANTIA KLOOF-(CONS)</Name>
+  </Table1>
+  <Table1>
+    <ID>195</ID>
+    <Name>LAND ROVER DURBAN-(DURB)</Name>
+  </Table1>
+  <Table1>
+    <ID>191</ID>
+    <Name>LAND ROVER EAST LONDON-(EAST)</Name>
+  </Table1>
+  <Table1>
+    <ID>192</ID>
+    <Name>LAND ROVER EAST RAND-(BOKS)</Name>
+  </Table1>
+  <Table1>
+    <ID>199</ID>
+    <Name>LAND ROVER EASTERN C APE-(PORT)</Name>
+  </Table1>
+  <Table1>
+    <ID>209</ID>
+    <Name>LAND ROVER EMPANGENI-(EMPA)</Name>
+  </Table1>
+  <Table1>
+    <ID>207</ID>
+    <Name>LAND ROVER FRANCISTOWN-(FRAN)</Name>
+  </Table1>
+  <Table1>
+    <ID>205</ID>
+    <Name>LAND ROVER FRANCISTOWN CTO-(FRAN)</Name>
+  </Table1>
+  <Table1>
+    <ID>204</ID>
+    <Name>LAND ROVER GABARONEC TO-(GABO)</Name>
+  </Table1>
+  <Table1>
+    <ID>203</ID>
+    <Name>LAND ROVER GABORONE( GMR FREIG-(GABO)</Name>
+  </Table1>
+  <Table1>
+    <ID>210</ID>
+    <Name>LAND ROVER GEORGE-(GEOR)</Name>
+  </Table1>
+  <Table1>
+    <ID>180</ID>
+    <Name>LAND ROVER MARKETING  FMCSA-(PRET)</Name>
+  </Table1>
+  <Table1>
+    <ID>193</ID>
+    <Name>LAND ROVER MIDRAND-(MIDR)</Name>
+  </Table1>
+  <Table1>
+    <ID>208</ID>
+    <Name>LAND ROVER NELSPRUIT-(NELS)</Name>
+  </Table1>
+  <Table1>
+    <ID>214</ID>
+    <Name>LAND ROVER NORTH WES TERN-(UPIN)</Name>
+  </Table1>
+  <Table1>
+    <ID>196</ID>
+    <Name>LAND ROVER PIETERMARITZBURG-(PIET)</Name>
+  </Table1>
+  <Table1>
+    <ID>212</ID>
+    <Name>LAND ROVER PIETERSBU RG-(PIET)</Name>
+  </Table1>
+  <Table1>
+    <ID>213</ID>
+    <Name>LAND ROVER PINETOWN-(PINE)</Name>
+  </Table1>
+  <Table1>
+    <ID>184</ID>
+    <Name>LAND ROVER PRETORIA-(MENL)</Name>
+  </Table1>
+  <Table1>
+    <ID>202</ID>
+    <Name>LAND ROVER RUSTENBUR G-(WATE)</Name>
+  </Table1>
+  <Table1>
+    <ID>198</ID>
+    <Name>LAND ROVER SANDTON-(BRYA)</Name>
+  </Table1>
+  <Table1>
+    <ID>194</ID>
+    <Name>LAND ROVER STELLENBOSCH-(STEL)</Name>
+  </Table1>
+  <Table1>
+    <ID>215</ID>
+    <Name>LAND ROVER TYGERVALL EY-(PARO)</Name>
+  </Table1>
+  <Table1>
+    <ID>187</ID>
+    <Name>LAND ROVER UMHLANGA-(UMHL)</Name>
+  </Table1>
+  <Table1>
+    <ID>201</ID>
+    <Name>LAND ROVER WATERFORD-(FOUR)</Name>
+  </Table1>
+  <Table1>
+    <ID>200</ID>
+    <Name>LAND ROVER WINDHOEK-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>189</ID>
+    <Name>LAND ROVER WITBANK-(WITB)</Name>
+  </Table1>
+  <Table1>
+    <ID>137</ID>
+    <Name>LAZARUS FORD                                      -(CENT)</Name>
+  </Table1>
+  <Table1>
+    <ID>10569</ID>
+    <Name>LAZARUS MAZDA                                     -(CENT)</Name>
+  </Table1>
+  <Table1>
+    <ID>78</ID>
+    <Name>LEONS AUTO                                        -(WATE)</Name>
+  </Table1>
+  <Table1>
+    <ID>84</ID>
+    <Name>Lotus Motors-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>3332</ID>
+    <Name>MAYFAIR GEARBOX                                   -(BOOY)</Name>
+  </Table1>
+  <Table1>
+    <ID>282</ID>
+    <Name>MAZDA ECUADOR                                     -(QUIT)</Name>
+  </Table1>
+  <Table1>
+    <ID>5196</ID>
+    <Name>MCCARTHY FORD &amp; MAZD A PTA EAST                   -(LYNN)</Name>
+  </Table1>
+  <Table1>
+    <ID>5197</ID>
+    <Name>MCCARTHY PRETORIA EAST (MAZDA / DAILY)-(SILV)</Name>
+  </Table1>
+  <Table1>
+    <ID>124</ID>
+    <Name>MCGEE &amp; CO-(LYDE)</Name>
+  </Table1>
+  <Table1>
+    <ID>10</ID>
+    <Name>METRO AUTO-(GEZI)</Name>
+  </Table1>
+  <Table1>
+    <ID>211</ID>
+    <Name>MGM MOTORS-(POTG)</Name>
+  </Table1>
+  <Table1>
+    <ID>98</ID>
+    <Name>MIDLAND AUTO &amp; TRACT ORS-(GRAA)</Name>
+  </Table1>
+  <Table1>
+    <ID>57</ID>
+    <Name>MODERNE MOTORS                                    -(HART)</Name>
+  </Table1>
+  <Table1>
+    <ID>11904</ID>
+    <Name>MOSSELBAAI FORD &amp; MA ZDA                          -(MOSS)</Name>
+  </Table1>
+  <Table1>
+    <ID>11997</ID>
+    <Name>MOSSELBAAI FORD AND MAZDA-(MOSS)</Name>
+  </Table1>
+  <Table1>
+    <ID>69</ID>
+    <Name>MOTOMID AUTO                                      -(ABBO)</Name>
+  </Table1>
+  <Table1>
+    <ID>96</ID>
+    <Name>MOTOR CITY FORD DULY  HOLDINGS-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>92</ID>
+    <Name>MOTORVIA-(KUIL)</Name>
+  </Table1>
+  <Table1>
+    <ID>3988</ID>
+    <Name>MOUNT FUJI MOTORS-(LIMP)</Name>
+  </Table1>
+  <Table1>
+    <ID>287</ID>
+    <Name>NEIL WOOLRIDGE RACIN G                            -(PIET)</Name>
+  </Table1>
+  <Table1>
+    <ID>109</ID>
+    <Name>NELSPRUIT AUTO                                    -( IND)</Name>
+  </Table1>
+  <Table1>
+    <ID>64</ID>
+    <Name>NIRVANA CIRCLE MOTOR S-(ORMO)</Name>
+  </Table1>
+  <Table1>
+    <ID>3989</ID>
+    <Name>NISSAN SA-(ROSS)</Name>
+  </Table1>
+  <Table1>
+    <ID>148</ID>
+    <Name>NORTH WESTERN FORD-(UPIN)</Name>
+  </Table1>
+  <Table1>
+    <ID>278</ID>
+    <Name>NOVEL FORD                                        -(WIND)</Name>
+  </Table1>
+  <Table1>
+    <ID>153</ID>
+    <Name>NOVEL FORD PAARL-(PAAR)</Name>
+  </Table1>
+  <Table1>
+    <ID>157</ID>
+    <Name>NOVEL MOTOR COMPANY-(PAAR)</Name>
+  </Table1>
+  <Table1>
+    <ID>7107</ID>
+    <Name>NOVEL PAARL(BULK)                                 -(DEST)</Name>
+  </Table1>
+  <Table1>
+    <ID>70</ID>
+    <Name>NUMBI MOTORS-(WHIT)</Name>
+  </Table1>
+  <Table1>
+    <ID>60</ID>
+    <Name>OAKS SERVICE STATION-(KOKS)</Name>
+  </Table1>
+  <Table1>
+    <ID>39</ID>
+    <Name>PARK MOTORS-(VAND)</Name>
+  </Table1>
+  <Table1>
+    <ID>73</ID>
+    <Name>PAUL MAHER MOTORS-(LIND)</Name>
+  </Table1>
+  <Table1>
+    <ID>12463</ID>
+    <Name>PERMA PRODUSTS-(DURB)</Name>
+  </Table1>
+  <Table1>
+    <ID>75</ID>
+    <Name>PILATUS ENGINEERINGC OMPANY-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>40</ID>
+    <Name>PORTER MOTORS KEMPTO NPARK                        -(RHOD)</Name>
+  </Table1>
+  <Table1>
+    <ID>3538</ID>
+    <Name>PORTER'S AUTO LOCAL EXPT                                    -(CAPE)</Name>
+  </Table1>
+  <Table1>
+    <ID>21</ID>
+    <Name>PORTER'S AUTO PARTS DIVISION PAARDENEILAND-(PAAR)</Name>
+  </Table1>
+  <Table1>
+    <ID>16</ID>
+    <Name>PORTERS AUTO CPT-(CAPE)</Name>
+  </Table1>
+  <Table1>
+    <ID>108</ID>
+    <Name>PORTERS AUTO DIEP R-(DIEP)</Name>
+  </Table1>
+  <Table1>
+    <ID>9029</ID>
+    <Name>PORTERS AUTO GEORGE                               -(GEOR)</Name>
+  </Table1>
+  <Table1>
+    <ID>295</ID>
+    <Name>PORTERS AUTO GERMIST ON                           -(GERM)</Name>
+  </Table1>
+  <Table1>
+    <ID>1766</ID>
+    <Name>PORTERS AUTO GERMISTON-(GERM)</Name>
+  </Table1>
+  <Table1>
+    <ID>133</ID>
+    <Name>PORTERS AUTO KROONSTAD-(KROO)</Name>
+  </Table1>
+  <Table1>
+    <ID>36</ID>
+    <Name>PORTERS AUTO MAZDA-(ROND)</Name>
+  </Table1>
+  <Table1>
+    <ID>120</ID>
+    <Name>PORTERS AUTO NOORDHOEK-(NOOR)</Name>
+  </Table1>
+  <Table1>
+    <ID>10228</ID>
+    <Name>PRECISION AUTO SPRAY                              -(PRET)</Name>
+  </Table1>
+  <Table1>
+    <ID>3851</ID>
+    <Name>PRIMA FOODS-(GABO)</Name>
+  </Table1>
+  <Table1>
+    <ID>3849</ID>
+    <Name>PRINA FOODS-(JET )</Name>
+  </Table1>
+  <Table1>
+    <ID>20</ID>
+    <Name>Prodrive-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>135</ID>
+    <Name>RANDFORD                                          -(RAND)</Name>
+  </Table1>
+  <Table1>
+    <ID>166</ID>
+    <Name>REMTEC MANUFACTURING                              -(KORS)</Name>
+  </Table1>
+  <Table1>
+    <ID>186</ID>
+    <Name>REMTEC MANUFACTURING-(KORS)</Name>
+  </Table1>
+  <Table1>
+    <ID>145</ID>
+    <Name>RITCHIE AUTO-(STAN)</Name>
+  </Table1>
+  <Table1>
+    <ID>33</ID>
+    <Name>RITCHIE AUTO R/BAY-(RICH)</Name>
+  </Table1>
+  <Table1>
+    <ID>151</ID>
+    <Name>RITCHIE FORD-(VRYH)</Name>
+  </Table1>
+  <Table1>
+    <ID>113</ID>
+    <Name>RITCHIE FORD-(EMPA)</Name>
+  </Table1>
+  <Table1>
+    <ID>216</ID>
+    <Name>RITCHIE LAND ROVER-(STAN)</Name>
+  </Table1>
+  <Table1>
+    <ID>31</ID>
+    <Name>Robert Hudson-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>140</ID>
+    <Name>ROELOU BARRY AUTO-(ROBE)</Name>
+  </Table1>
+  <Table1>
+    <ID>27</ID>
+    <Name>Ronil LDA-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>12464</ID>
+    <Name>SALCO - SA LOGISTICS-(ELAN)</Name>
+  </Table1>
+  <Table1>
+    <ID>34</ID>
+    <Name>SCOTT AUTO BETH-(BETH)</Name>
+  </Table1>
+  <Table1>
+    <ID>138</ID>
+    <Name>SCOTT AUTO REITZ-(REIT)</Name>
+  </Table1>
+  <Table1>
+    <ID>288</ID>
+    <Name>SENTRA MOTORS                                     -(PORT)</Name>
+  </Table1>
+  <Table1>
+    <ID>63</ID>
+    <Name>SENTRACOR-(LADY)</Name>
+  </Table1>
+  <Table1>
+    <ID>217</ID>
+    <Name>Setec Auto-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>238</ID>
+    <Name>Setec Auto-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>122</ID>
+    <Name>SFAUTO-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>23</ID>
+    <Name>SHATTERPRUFE SA-(BEDF)</Name>
+  </Table1>
+  <Table1>
+    <ID>933</ID>
+    <Name>SIME DARBY CONNEXION  SND BHD                     -(SEKS)</Name>
+  </Table1>
+  <Table1>
+    <ID>94</ID>
+    <Name>Sir Commercial-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>86</ID>
+    <Name>SIVVA Gabon-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>245</ID>
+    <Name>SIVVA Gabon-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>3843</ID>
+    <Name>SPORTLIGHT GEARBOX-(WYNB)</Name>
+  </Table1>
+  <Table1>
+    <ID>118</ID>
+    <Name>STANGER FORD AND MAZ DA-(STAN)</Name>
+  </Table1>
+  <Table1>
+    <ID>29</ID>
+    <Name>Stansfield Motors-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>136</ID>
+    <Name>STEYNS AUTO                                       -(PRET)</Name>
+  </Table1>
+  <Table1>
+    <ID>4673</ID>
+    <Name>STEYNS AUTO BULK                                  -(PRET)</Name>
+  </Table1>
+  <Table1>
+    <ID>263</ID>
+    <Name>STRADFORD MOTORS-(NEWL)</Name>
+  </Table1>
+  <Table1>
+    <ID>56</ID>
+    <Name>SUPREME AUTO-(MAFI)</Name>
+  </Table1>
+  <Table1>
+    <ID>179</ID>
+    <Name>SUPREME AUTO VRYBURG-(VRYB)</Name>
+  </Table1>
+  <Table1>
+    <ID>12734</ID>
+    <Name>TARGET PANELBEATERS                               -(PRET)</Name>
+  </Table1>
+  <Table1>
+    <ID>28</ID>
+    <Name>Technica-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>12165</ID>
+    <Name>THREE WAY INVESTMENT S                            -(EAST)</Name>
+  </Table1>
+  <Table1>
+    <ID>284</ID>
+    <Name>TOITS FORD &amp; MAZDA-B ELA-BELA                     -(WARM)</Name>
+  </Table1>
+  <Table1>
+    <ID>178</ID>
+    <Name>TOITS FORD AND MAZDA-(BRIT)</Name>
+  </Table1>
+  <Table1>
+    <ID>121</ID>
+    <Name>TOTI FORD &amp; MAZDA-(AMAN)</Name>
+  </Table1>
+  <Table1>
+    <ID>45</ID>
+    <Name>TUINROETE MOTORS-(RIVE)</Name>
+  </Table1>
+  <Table1>
+    <ID>71</ID>
+    <Name>TWENTY FOUR MOTORS                                -(ERME)</Name>
+  </Table1>
+  <Table1>
+    <ID>160</ID>
+    <Name>TZANEEN FORD &amp; MAZDA-(TZAN)</Name>
+  </Table1>
+  <Table1>
+    <ID>102</ID>
+    <Name>VEHICLE CENTRE ZAMBI A LTD-(EXPO)</Name>
+  </Table1>
+  <Table1>
+    <ID>65</ID>
+    <Name>VEREENIGING AUTO-(VERE)</Name>
+  </Table1>
+  <Table1>
+    <ID>285</ID>
+    <Name>WE DEANE-(Pomo)</Name>
+  </Table1>
+  <Table1>
+    <ID>3842</ID>
+    <Name>WELKOM CHANA-(WELK)</Name>
+  </Table1>
+  <Table1>
+    <ID>51</ID>
+    <Name>WESKUS MOTORS-(VRED)</Name>
+  </Table1>
+  <Table1>
+    <ID>141</ID>
+    <Name>WESTERN AUTO                                      -(LICH)</Name>
+  </Table1>
+</NewDataSet>
